@@ -14,8 +14,8 @@ include_once "functions.php";
 include_once "Trieda.php";
 include_once "DietaTriedy.php";
 
-use ukf\Trieda;
-use ukf\DietaTriedy;
+use ukf\basic\DietaTriedy;
+use ukf\basic\Trieda;
 
 $currentDateTime = returnCurrentDateTime();
 var_dump($currentDateTime);

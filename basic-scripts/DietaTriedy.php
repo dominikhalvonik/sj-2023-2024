@@ -1,6 +1,6 @@
 <?php
 
-namespace ukf;
+namespace ukf\basic;
 
 class DietaTriedy extends Trieda
 {

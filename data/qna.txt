@@ -1,0 +1,8 @@
+Otazka 1;
+Odpoved 1;
+Otazka 2;
+Odpoved 2;
+Otazka 3;
+Odpoved 3;
+Otazka 4;
+Odpoved 4;
